@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Jamie Bower
 - 👀 I’m interested in Full Stack JavaScript Development
-- 🌱 I’m currently learning about Unit Testing in React
-- 💞️ I’m looking to collaborate on any Web Development projects. I'm always looking to meet new people and learn new things!
-- 📫 How to reach me: jamiebower03@gmail.com
+- I currently work as a frontend developer for Nexigen Digital
 
 <!---
 jbower493/jbower493 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
