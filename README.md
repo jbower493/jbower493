@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jamie Bower
-- 👀 I’m interested in Full Stack JavaScript Development
-- I currently work as a frontend developer for Nexigen Digital
+- I currently work as a full stack developer for Proa Energy
 
 <!---
 jbower493/jbower493 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
